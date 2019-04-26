@@ -2,13 +2,13 @@ intro: "Side Projects"
 projects:
   - project:
     title: User Management Application
-    link: "#https://github.com/ankurgoel92/UserManagement-Spring-Rest"
+    link: "https://github.com/ankurgoel92/UserManagement-Spring-Rest"
     tagline: "Production grade REST services built using Spring with security"
   - project:
     title: Gif Converter
-    link: "#https://github.com/ankurgoel92/gif-it-parent"
+    link: "https://github.com/ankurgoel92/gif-it-parent"
     tagline: "Small application for converting videos into animated gifs"
   - project:
     title: Bug Tracking System
-    link: "#https://github.com/ankurgoel92/bugtracker-spring-data-rest"
+    link: "https://github.com/ankurgoel92/bugtracker-spring-data-rest"
     tagline: "Microservices REST APIs Using Spring Data REST and Spring Boot "
