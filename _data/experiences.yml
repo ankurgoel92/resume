@@ -1,0 +1,36 @@
+- experience:
+  role: Manager
+  time: March 2017 - Present
+  company: Morgan Stanley
+  details:
+   - text: "Matrix FX – Flagship Foreign Exchange Application"
+   - text: " Converted a middleware message broker application (protocol converter) from Q/KDB to Java."
+   - text: " Created services for trade blotters functionality using multithreading and event driven programming."
+   - text: " Optimized service via caching and remote calls."
+   - text: " Order ticket enhancements like - NDF orders, Optimised Icebergs etc."
+   - text: " Migration from perforce to git."
+   - text: " Added validations to trade requests via querying LDAP and modifying the session state."
+   
+- experience:
+  role: Software Engineer
+  time: Feb 2017
+  company: IVY Comptech Pvt Ltd
+  details:
+   - text: "Game Integration"
+   - text: " Created REST api’s to integrate a vendor game with the existing backend services using Spring Boot."
+- experience:
+  role: Applications Engineer
+  time: May 2015
+  company: Oracle India Pvt Ltd
+  details:
+    - text: "Oracle Fusion HCM – Oracle Time and Labor (OTL)"
+    - text: " Implemented a user interface for time entry and approval for both employees and contingent workforce using Oracle ADF and implemented validations using JSF backing beans."
+    - text: " Tuned JSF Pages to load twice as fast by lazy loading of data."
+- experience:
+  role: Systems Engineer
+  time: June 2014
+  company: Infosys Limited
+  details:
+    - text: "JCart – Application Development & Maintenance"
+    - text: " Developed n-tier e-commerce application called JCart, using J2EE stack based on MVC design pattern."
+    - text: " Worked on all tiers of enterprise architecture – Presentation Tier, using JSP, JSF; Business Tier, using POJO; Persistence Tier, using JPA, JPQL."

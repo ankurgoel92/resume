@@ -1,0 +1,19 @@
+- skill:
+  name: Java, SQL, Spring (DI, Boot, Data REST, JPA etc), Hibernate, Swagger
+  level: 80%
+- skill:
+  name: Shell Scripting, JavaScript, HTML, CSS, Angular & Typescript(Novice) 
+  level: 50%
+- skill:
+  name: JUnit, JMockit, Mockito, Rest Assured
+  level: 70%
+- skill:
+  name: Maven, Gradle, Ant
+  level: 70%
+- skill:
+  name: Perforce, ADE, GIT
+  level: 70%
+- skill:
+  name: Continuous Integration
+  level: 70%
+
